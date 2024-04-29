@@ -1,0 +1,117 @@
+/home/derek/uniwork/comp6991/assignments/rslogo
+User file 0_00_empty_file_mine.svg not found.
+======================================================================
+User file 0_01_comments_only_mine.svg not found.
+======================================================================
+Comparing 1_00_penup_pendown_actual.svg with 1_00_penup_pendown_mine.svg
+Files ./correct_images/1_00_penup_pendown_actual.svg and ./user_images/1_00_penup_pendown_mine.svg are identical
+======================================================================
+Comparing 1_01_setpencolor_actual.svg with 1_01_setpencolor_mine.svg
+Files ./correct_images/1_01_setpencolor_actual.svg and ./user_images/1_01_setpencolor_mine.svg are identical
+======================================================================
+Comparing 1_02_forward_back_actual.svg with 1_02_forward_back_mine.svg
+Files ./correct_images/1_02_forward_back_actual.svg and ./user_images/1_02_forward_back_mine.svg are identical
+======================================================================
+Comparing 1_03_left_right_actual.svg with 1_03_left_right_mine.svg
+Files ./correct_images/1_03_left_right_actual.svg and ./user_images/1_03_left_right_mine.svg are identical
+======================================================================
+Comparing 1_04_turn_rel_actual.svg with 1_04_turn_rel_mine.svg
+Files ./correct_images/1_04_turn_rel_actual.svg and ./user_images/1_04_turn_rel_mine.svg are identical
+======================================================================
+Comparing 1_05_setheading_abs_actual.svg with 1_05_setheading_abs_mine.svg
+Files ./correct_images/1_05_setheading_abs_actual.svg and ./user_images/1_05_setheading_abs_mine.svg are identical
+======================================================================
+Comparing 1_06_setx_sety_actual.svg with 1_06_setx_sety_mine.svg
+Files ./correct_images/1_06_setx_sety_actual.svg and ./user_images/1_06_setx_sety_mine.svg are identical
+======================================================================
+Comparing 1_07_combo_actual.svg with 1_07_combo_mine.svg
+Files ./correct_images/1_07_combo_actual.svg and ./user_images/1_07_combo_mine.svg are identical
+======================================================================
+Comparing 1_08_harder_combo_actual.svg with 1_08_harder_combo_mine.svg
+Files ./correct_images/1_08_harder_combo_actual.svg and ./user_images/1_08_harder_combo_mine.svg are identical
+======================================================================
+Comparing 2_00_penup_pendown_vars_actual.svg with 2_00_penup_pendown_vars_mine.svg
+Files ./correct_images/2_00_penup_pendown_vars_actual.svg and ./user_images/2_00_penup_pendown_vars_mine.svg are identical
+======================================================================
+Comparing 2_01_setpencolor_vars_actual.svg with 2_01_setpencolor_vars_mine.svg
+Files ./correct_images/2_01_setpencolor_vars_actual.svg and ./user_images/2_01_setpencolor_vars_mine.svg are identical
+======================================================================
+Comparing 2_02_moving_vars_actual.svg with 2_02_moving_vars_mine.svg
+Files ./correct_images/2_02_moving_vars_actual.svg and ./user_images/2_02_moving_vars_mine.svg are identical
+======================================================================
+Comparing 2_04_queries_actual.svg with 2_04_queries_mine.svg
+Files ./correct_images/2_04_queries_actual.svg and ./user_images/2_04_queries_mine.svg are identical
+======================================================================
+Comparing 2_05_addassign_actual.svg with 2_05_addassign_mine.svg
+Files ./correct_images/2_05_addassign_actual.svg and ./user_images/2_05_addassign_mine.svg are identical
+======================================================================
+Comparing 3_00_simple_if_actual.svg with 3_00_simple_if_mine.svg
+Files ./correct_images/3_00_simple_if_actual.svg and ./user_images/3_00_simple_if_mine.svg are identical
+======================================================================
+Comparing 3_01_double_if_actual.svg with 3_01_double_if_mine.svg
+Files ./correct_images/3_01_double_if_actual.svg and ./user_images/3_01_double_if_mine.svg are identical
+======================================================================
+Comparing 3_02_nested_if_actual.svg with 3_02_nested_if_mine.svg
+Files ./correct_images/3_02_nested_if_actual.svg and ./user_images/3_02_nested_if_mine.svg are identical
+======================================================================
+Comparing 3_03_single_loop_actual.svg with 3_03_single_loop_mine.svg
+Files ./correct_images/3_03_single_loop_actual.svg and ./user_images/3_03_single_loop_mine.svg are identical
+======================================================================
+Comparing 3_04_zero_loop_actual.svg with 3_04_zero_loop_mine.svg
+Files ./correct_images/3_04_zero_loop_actual.svg and ./user_images/3_04_zero_loop_mine.svg are identical
+======================================================================
+Comparing 3_05_spiral_actual.svg with 3_05_spiral_mine.svg
+Files ./correct_images/3_05_spiral_actual.svg and ./user_images/3_05_spiral_mine.svg are identical
+======================================================================
+Comparing 3_06_spiral2_actual.svg with 3_06_spiral2_mine.svg
+Files ./correct_images/3_06_spiral2_actual.svg and ./user_images/3_06_spiral2_mine.svg are identical
+======================================================================
+Comparing 3_09_nested_while_loop_actual.svg with 3_09_nested_while_loop_mine.svg
+Files ./correct_images/3_09_nested_while_loop_actual.svg and ./user_images/3_09_nested_while_loop_mine.svg are identical
+======================================================================
+Comparing 4_00_basic_arithmetic_actual.svg with 4_00_basic_arithmetic_mine.svg
+Files ./correct_images/4_00_basic_arithmetic_actual.svg and ./user_images/4_00_basic_arithmetic_mine.svg are identical
+======================================================================
+Comparing 4_01_basic_arithmetic_neg_actual.svg with 4_01_basic_arithmetic_neg_mine.svg
+Files ./correct_images/4_01_basic_arithmetic_neg_actual.svg and ./user_images/4_01_basic_arithmetic_neg_mine.svg are identical
+======================================================================
+Comparing 4_02_logical_and_actual.svg with 4_02_logical_and_mine.svg
+Files ./correct_images/4_02_logical_and_actual.svg and ./user_images/4_02_logical_and_mine.svg are identical
+======================================================================
+Comparing 4_03_logical_or_actual.svg with 4_03_logical_or_mine.svg
+Files ./correct_images/4_03_logical_or_actual.svg and ./user_images/4_03_logical_or_mine.svg are identical
+======================================================================
+Comparing 4_04_nested_if_actual.svg with 4_04_nested_if_mine.svg
+Files ./correct_images/4_04_nested_if_actual.svg and ./user_images/4_04_nested_if_mine.svg are identical
+======================================================================
+Comparing 4_05_mixed_logic_actual.svg with 4_05_mixed_logic_mine.svg
+Files ./correct_images/4_05_mixed_logic_actual.svg and ./user_images/4_05_mixed_logic_mine.svg are identical
+======================================================================
+Comparing 4_06_mixed_logic_2_actual.svg with 4_06_mixed_logic_2_mine.svg
+Files ./correct_images/4_06_mixed_logic_2_actual.svg and ./user_images/4_06_mixed_logic_2_mine.svg are identical
+======================================================================
+Comparing 4_07_complex_1_actual.svg with 4_07_complex_1_mine.svg
+Files ./correct_images/4_07_complex_1_actual.svg and ./user_images/4_07_complex_1_mine.svg are identical
+======================================================================
+Comparing 4_08_ne_check_actual.svg with 4_08_ne_check_mine.svg
+Files ./correct_images/4_08_ne_check_actual.svg and ./user_images/4_08_ne_check_mine.svg are identical
+======================================================================
+Comparing 4_09_spiral_actual.svg with 4_09_spiral_mine.svg
+Files ./correct_images/4_09_spiral_actual.svg and ./user_images/4_09_spiral_mine.svg are identical
+======================================================================
+Comparing 4_10_spiral_hard_actual.svg with 4_10_spiral_hard_mine.svg
+Files ./correct_images/4_10_spiral_hard_actual.svg and ./user_images/4_10_spiral_hard_mine.svg are identical
+======================================================================
+Comparing 4_11_final_test_actual.svg with 4_11_final_test_mine.svg
+Files ./correct_images/4_11_final_test_actual.svg and ./user_images/4_11_final_test_mine.svg are identical
+======================================================================
+User file 5_00_boxes_mine.svg not found.
+======================================================================
+User file 5_01_boxes2_mine.svg not found.
+======================================================================
+User file 5_02_rectangles_mine.svg not found.
+======================================================================
+User file 5_05_star_mine.svg not found.
+======================================================================
+User file _mine.svg not found.
+======================================================================
